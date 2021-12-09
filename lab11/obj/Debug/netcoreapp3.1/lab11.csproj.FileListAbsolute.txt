@@ -1,0 +1,14 @@
+C:\Users\dima7\source\repos\lab11\bin\Debug\netcoreapp3.1\lab11.exe
+C:\Users\dima7\source\repos\lab11\bin\Debug\netcoreapp3.1\lab11.deps.json
+C:\Users\dima7\source\repos\lab11\bin\Debug\netcoreapp3.1\lab11.runtimeconfig.json
+C:\Users\dima7\source\repos\lab11\bin\Debug\netcoreapp3.1\lab11.runtimeconfig.dev.json
+C:\Users\dima7\source\repos\lab11\bin\Debug\netcoreapp3.1\lab11.dll
+C:\Users\dima7\source\repos\lab11\bin\Debug\netcoreapp3.1\lab11.pdb
+C:\Users\dima7\source\repos\lab11\obj\Debug\netcoreapp3.1\lab11.csproj.AssemblyReference.cache
+C:\Users\dima7\source\repos\lab11\obj\Debug\netcoreapp3.1\lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dima7\source\repos\lab11\obj\Debug\netcoreapp3.1\lab11.AssemblyInfoInputs.cache
+C:\Users\dima7\source\repos\lab11\obj\Debug\netcoreapp3.1\lab11.AssemblyInfo.cs
+C:\Users\dima7\source\repos\lab11\obj\Debug\netcoreapp3.1\lab11.csproj.CoreCompileInputs.cache
+C:\Users\dima7\source\repos\lab11\obj\Debug\netcoreapp3.1\lab11.dll
+C:\Users\dima7\source\repos\lab11\obj\Debug\netcoreapp3.1\lab11.pdb
+C:\Users\dima7\source\repos\lab11\obj\Debug\netcoreapp3.1\lab11.genruntimeconfig.cache
