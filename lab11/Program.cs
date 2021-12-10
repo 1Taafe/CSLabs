@@ -4,15 +4,6 @@ using System.Linq;
 
 namespace lab11
 {
-
-    public class CardType
-    {
-        public string Name { set; get; }
-        public CardType(string name)
-        {
-            Name = name;
-        }
-    }
     class Program
     {
         static void Main(string[] args)
@@ -104,6 +95,15 @@ namespace lab11
                       
 
             Console.WriteLine(item);
+
+            Console.WriteLine();
+
+            var item2 = myCustomers.OrderByDescending(s => s.Balance).Take(5);
+
+            foreach(var s in item2)
+            {
+                Console.WriteLine(s);
+            }
 
             Console.WriteLine();
 
