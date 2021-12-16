@@ -1,0 +1,325 @@
+13.12.2021 19:13:44
+C:\
+75,21 (GB) Available space 
+D:\
+129,47 (GB) Available space 
+
+13.12.2021 19:13:59
+C:\
+75,2 (GB) Available space 
+D:\
+129,47 (GB) Available space 
+
+13.12.2021 19:15:39
+C:\
+NTFS drive format 
+D:\
+NTFS drive format 
+
+13.12.2021 19:17:24
+C:\	NTFS drive format 
+D:\	NTFS drive format 
+
+13.12.2021 19:17:24
+C:\	75,2 (GB) Available space 
+D:\	129,47 (GB) Available space 
+
+16.12.2021 16:21:46
+C:\ |  | 149,29 (Gb) total space | 74,51 (Gb) total FREE space
+D:\ |  | 326,94 (Gb) total space | 129,43 (Gb) total FREE space
+
+16.12.2021 16:31:37
+Путь к файлу: C:\Users\dima7\source\repos\lab13\testFile.txt
+
+16.12.2021 17:00:55
+Время создания: 16.12.2021 16:44:10
+
+16.12.2021 17:02:21
+Кол-во поддиректорий: 4
+
+16.12.2021 17:03:36
+Кол-во поддиректорий: 4
+
+16.12.2021 17:10:03
+C:\Users\dima7\source\repos\lab13\testDir
+Кол-во поддиректорий: 4
+
+16.12.2021 17:10:13
+C:\Users\dima7\source\repos\lab13
+Родительские директории: 
+
+16.12.2021 17:11:28
+C:\Users\dima7\source\repos\lab13
+Родительские директории: 
+C:\Users\dima7\source\repos\lab13\testDir\Новая папка
+C:\Users\dima7\source\repos\lab13\testDir\Новая папка (2)
+C:\Users\dima7\source\repos\lab13\testDir\Новая папка (3)
+C:\Users\dima7\source\repos\lab13\testDir\Новая папка (4)
+
+16.12.2021 17:11:38
+C:\Users\dima7\source\repos\lab13
+Родительские директории: 
+C:\Users\dima7\source\repos\lab13\testDir\Новая папка
+C:\Users\dima7\source\repos\lab13\testDir\Новая папка (2)
+C:\Users\dima7\source\repos\lab13\testDir\Новая папка (3)
+C:\Users\dima7\source\repos\lab13\testDir\Новая папка (4)
+
+16.12.2021 17:12:00
+C:\Users\dima7\source\repos\lab13
+Родительские директории: 
+C:\Users\dima7\source\repos\lab13\.vs
+C:\Users\dima7\source\repos\lab13\bin
+C:\Users\dima7\source\repos\lab13\lab13
+C:\Users\dima7\source\repos\lab13\obj
+C:\Users\dima7\source\repos\lab13\testDir
+
+16.12.2021 17:19:58
+C:\
+Директории: 
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\AdwCleaner
+C:\Config
+C:\Documents and Settings
+C:\Fraps
+C:\OneDriveTemp
+C:\OpenServer
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\System Volume Information
+C:\Users
+C:\Windows
+Файлы: 
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\swapfile.sys
+
+16.12.2021 17:49:41
+C:\
+Директории: 
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\AdwCleaner
+C:\Config
+C:\Documents and Settings
+C:\Fraps
+C:\OneDriveTemp
+C:\OpenServer
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\System Volume Information
+C:\Users
+C:\Windows
+Файлы: 
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\swapfile.sys
+
+16.12.2021 17:49:59
+C:\
+Директории: 
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\AdwCleaner
+C:\Config
+C:\Documents and Settings
+C:\Fraps
+C:\OneDriveTemp
+C:\OpenServer
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\System Volume Information
+C:\Users
+C:\Windows
+Файлы: 
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\swapfile.sys
+
+16.12.2021 17:51:46
+C:\
+Директории: 
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\AdwCleaner
+C:\Config
+C:\Documents and Settings
+C:\Fraps
+C:\OneDriveTemp
+C:\OpenServer
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\System Volume Information
+C:\Users
+C:\Windows
+Файлы: 
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\swapfile.sys
+
+16.12.2021 20:19:17
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:20:17
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:20:38
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:21:50
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:23:13
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:23:40
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:24:17
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:24:39
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:25:11
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:25:46
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:27:26
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:39:14
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:39:48
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:41:54
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:43:49
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:45:10
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:46:02
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:51:37
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:51:37
+Создание директории C:\ZDVFiles
+
+16.12.2021 20:51:37
+Создание архива C:\ZDVInspect\myArch.zip
+Разархивация в папку C:\Users\dima7\source\repos\lab13\arch
+
+16.12.2021 20:52:35
+C:\ZDVInspect
+Создание директории C:\ZDVInspect
+Создание файла C:\ZDVInspect\ZDVdirinfo.txt
+Копирование файла C:\ZDVInspect\ZDVdirinfoNEW.txt
+Удаление файла C:\ZDVInspect\ZDVdirinfo.txt
+
+16.12.2021 20:52:35
+Создание директории C:\ZDVFiles
+Копирование файла C:\ZDVFiles\2.txt
+Копирование файла C:\ZDVFiles\testFile.txt
+Перемещение директории C:\ZDVInspect\ZDVFiles
+
+16.12.2021 20:52:35
+Создание архива C:\ZDVInspect\myArch.zip
+Разархивация в папку C:\Users\dima7\source\repos\lab13\arch
+
