@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<flowers>
+  <flower name="Ромашка">
+    <color>белый</color>
+    <growLocation>равнина</growLocation>
+  </flower>
+  <flower name="Роза">
+    <color>красный</color>
+    <growLocation>степь</growLocation>
+  </flower>
+  <flower name="Гладиолус">
+    <color>белый</color>
+    <growLocation>степь</growLocation>
+  </flower>
+</flowers>
