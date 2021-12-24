@@ -1,0 +1,16 @@
+C:\Users\dima7\source\repos\lab16\bin\Debug\net5.0\lab16.exe
+C:\Users\dima7\source\repos\lab16\bin\Debug\net5.0\lab16.deps.json
+C:\Users\dima7\source\repos\lab16\bin\Debug\net5.0\lab16.runtimeconfig.json
+C:\Users\dima7\source\repos\lab16\bin\Debug\net5.0\lab16.runtimeconfig.dev.json
+C:\Users\dima7\source\repos\lab16\bin\Debug\net5.0\lab16.dll
+C:\Users\dima7\source\repos\lab16\bin\Debug\net5.0\ref\lab16.dll
+C:\Users\dima7\source\repos\lab16\bin\Debug\net5.0\lab16.pdb
+C:\Users\dima7\source\repos\lab16\obj\Debug\net5.0\lab16.csproj.AssemblyReference.cache
+C:\Users\dima7\source\repos\lab16\obj\Debug\net5.0\lab16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dima7\source\repos\lab16\obj\Debug\net5.0\lab16.AssemblyInfoInputs.cache
+C:\Users\dima7\source\repos\lab16\obj\Debug\net5.0\lab16.AssemblyInfo.cs
+C:\Users\dima7\source\repos\lab16\obj\Debug\net5.0\lab16.csproj.CoreCompileInputs.cache
+C:\Users\dima7\source\repos\lab16\obj\Debug\net5.0\lab16.dll
+C:\Users\dima7\source\repos\lab16\obj\Debug\net5.0\ref\lab16.dll
+C:\Users\dima7\source\repos\lab16\obj\Debug\net5.0\lab16.pdb
+C:\Users\dima7\source\repos\lab16\obj\Debug\net5.0\lab16.genruntimeconfig.cache
