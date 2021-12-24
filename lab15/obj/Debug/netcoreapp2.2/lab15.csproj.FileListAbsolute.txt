@@ -1,0 +1,5 @@
+C:\Users\dima7\source\repos\lab15\obj\Debug\netcoreapp2.2\lab15.csproj.AssemblyReference.cache
+C:\Users\dima7\source\repos\lab15\obj\Debug\netcoreapp2.2\lab15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dima7\source\repos\lab15\obj\Debug\netcoreapp2.2\lab15.AssemblyInfoInputs.cache
+C:\Users\dima7\source\repos\lab15\obj\Debug\netcoreapp2.2\lab15.AssemblyInfo.cs
+C:\Users\dima7\source\repos\lab15\obj\Debug\netcoreapp2.2\lab15.csproj.CoreCompileInputs.cache
